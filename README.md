@@ -1,16 +1,7 @@
-# slask_exercise
+<b>Slask Trip Planer Demo App</b> 
 
-A new Flutter project.
+<h2>Here's a preview</h2>
 
-## Getting Started
+<iframe src="https://drive.google.com/file/d/1r9HSio2wAHvDGwJ7yp4HVQhsVI2oD59R/preview" 
+        width="640" height="480" allow="autoplay" frameborder="0"></iframe>
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
